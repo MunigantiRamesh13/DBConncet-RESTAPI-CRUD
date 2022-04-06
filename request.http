@@ -1,0 +1,12 @@
+######
+
+//get all the Players details 
+GET http://127.0.0.1:3000/players/
+
+#############
+//create new players details
+post http://127.0.0.1:3000/players/
+
+
+######
+GET http://127.0.0.1:3000/players/1/
